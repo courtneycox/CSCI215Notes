@@ -1,0 +1,32 @@
+September 20th
+Read Chapter 2 in textbook
+Fork today's code from "hello world" branch
+
+
+TO DO:
+    Download slides and copy definitions
+
+
+ Strings: 'hello world' or "hello world"
+          "Peter O'Toole" or 'Peter O\'Toole'
+          (escape character is the backslash (\) and tells the inrerpreter
+          to use alternate meaning for the following character
+          See page 19 for a table for more useful ones
+
+  Boolean Data: True or False
+                easy way to determine 'yes' or 'no'
+
+  Variables:
+            Data can be stored permanently or temporarily
+            permanent should go to a database or a file
+            temporary should be stored in a variable- much quicker
+
+            each variable needs a name so you can access the data
+                case sensitive
+                cannot be a reserved word like var or width
+                certain characters are not allowed: % or &
+                allowed to contain numbers, but cannot start with numbers
+             declare variables:
+                use the var keyword: var myvariable;
+             assign value: myVariable= 'name';
+             *notice the absence of the var keyword-- only use once.*
